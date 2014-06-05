@@ -1,0 +1,1911 @@
+before cascades stats: sample size = 6128, median = 7.0, mean = 6.65013054830287
+2, stdev = 0.6307347728755054
+num combos after cascades is 6
+after cascades stats: sample size = 6128, median = 8.0, mean = 7.829634464751958
+, stdev = 1.4844790110571267
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6129, median = 7.0, mean = 6.65018763256648
+7, stdev = 0.6306991466965769
+num combos after cascades is 7
+after cascades stats: sample size = 6129, median = 8.0, mean = 7.829499102626856
+, stdev = 1.4843957247598707
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6130, median = 7.0, mean = 6.65024469820554
+65, stdev = 0.6306635249652024
+num combos after cascades is 8
+after cascades stats: sample size = 6130, median = 8.0, mean = 7.82952691680261,
+ stdev = 1.484276240765278
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6131, median = 7.0, mean = 6.65030174522916
+35, stdev = 0.6306279076815168
+num combos after cascades is 8
+after cascades stats: sample size = 6131, median = 8.0, mean = 7.829554721905072
+5, stdev = 1.4841567856121027
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6132, median = 7.0, mean = 6.65035877364644
+45, stdev = 0.6305922948456496
+num combos after cascades is 7
+after cascades stats: sample size = 6132, median = 8.0, mean = 7.82941943900848,
+ stdev = 1.4840735672799583
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6133, median = 7.0, mean = 6.65041578346649
+2, stdev = 0.6305566864577166
+num combos after cascades is 9
+after cascades stats: sample size = 6133, median = 8.0, mean = 7.829610304907876
+, stdev = 1.4840278373346498
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6134, median = 7.0, mean = 6.65030974894033
+3, stdev = 0.6305599660606219
+num combos after cascades is 6
+after cascades stats: sample size = 6134, median = 8.0, mean = 7.829312031300946
+, stdev = 1.484090704626399
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6135, median = 7.0, mean = 6.65020374898125
+5, stdev = 0.6305632267554442
+num combos after cascades is 6
+after cascades stats: sample size = 6135, median = 8.0, mean = 7.829013854930725
+, stdev = 1.484153488846456
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6136, median = 7.0, mean = 6.65009778357236
+, stdev = 0.6305664685604326
+num combos after cascades is 11
+after cascades stats: sample size = 6136, median = 8.0, mean = 7.829530638852673
+, stdev = 1.4845844685862069
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6137, median = 7.0, mean = 6.64999185269675
+8, stdev = 0.6305696914938181
+num combos after cascades is 6
+after cascades stats: sample size = 6137, median = 8.0, mean = 7.829232524034545
+, stdev = 1.4846471749279009
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6138, median = 7.0, mean = 6.65004887585532
+8, stdev = 0.6305341476828441
+num combos after cascades is 7
+after cascades stats: sample size = 6138, median = 8.0, mean = 7.82909742587162,
+ stdev = 1.4845639562068647
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6139, median = 7.0, mean = 6.65010588043655
+3, stdev = 0.6304986082940274
+num combos after cascades is 10
+after cascades stats: sample size = 6139, median = 8.0, mean = 7.829451050659716
+, stdev = 1.4847015508963035
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6140, median = 7.0, mean = 6.65, stdev = 0.
+6305018424159244
+num combos after cascades is 8
+after cascades stats: sample size = 6140, median = 8.0, mean = 7.829478827361563
+, stdev = 1.4845822371740824
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6141, median = 7.0, mean = 6.65005699397492
+3, stdev = 0.6304663224606852
+num combos after cascades is 9
+after cascades stats: sample size = 6141, median = 8.0, mean = 7.829669434945448
+5, stdev = 1.4845364920234378
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6142, median = 7.0, mean = 6.65011396939107
+8, stdev = 0.6304308069213366
+num combos after cascades is 8
+after cascades stats: sample size = 6142, median = 8.0, mean = 7.829697167046564
+5, stdev = 1.484417226687612
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6143, median = 7.0, mean = 6.65000813934559
+7, stdev = 0.630434052211127
+num combos after cascades is 11
+after cascades stats: sample size = 6143, median = 8.0, mean = 7.830213250854631
+, stdev = 1.484847358632356
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6144, median = 7.0, mean = 6.65006510416666
+7, stdev = 0.6303985560829064
+num combos after cascades is 7
+after cascades stats: sample size = 6144, median = 8.0, mean = 7.830078125, stde
+v = 1.484764289002293
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6145, median = 7.0, mean = 6.64995931651749
+4, stdev = 0.6304017975347355
+num combos after cascades is 13
+after cascades stats: sample size = 6145, median = 8.0, mean = 7.830919446704638
+, stdev = 1.4861073657522383
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6146, median = 7.0, mean = 6.64985356329319
+9, stdev = 0.6304050201717147
+num combos after cascades is 7
+after cascades stats: sample size = 6146, median = 8.0, mean = 7.830784249918646
+, stdev = 1.4860242528432877
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6147, median = 7.0, mean = 6.64991052545957
+4, stdev = 0.6303695584208303
+num combos after cascades is 7
+after cascades stats: sample size = 6147, median = 8.0, mean = 7.830649097120546
+5, stdev = 1.4859411500348407
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6148, median = 7.0, mean = 6.65013012361743
+6, stdev = 0.6305533885253938
+num combos after cascades is 8
+after cascades stats: sample size = 6148, median = 8.0, mean = 7.83067664281067,
+ stdev = 1.4858218671426768
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6149, median = 7.0, mean = 6.65018702228004
+5, stdev = 0.630517897561457
+num combos after cascades is 9
+after cascades stats: sample size = 6149, median = 8.0, mean = 7.830866807610993
+5, stdev = 1.485775864758373
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6150, median = 7.0, mean = 6.65024390243902
+45, stdev = 0.6304824110098994
+num combos after cascades is 8
+after cascades stats: sample size = 6150, median = 8.0, mean = 7.83089430894309,
+ stdev = 1.4856566302398733
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6151, median = 7.0, mean = 6.65013818891237
+2, stdev = 0.6304856652161901
+num combos after cascades is 7
+after cascades stats: sample size = 6151, median = 8.0, mean = 7.83075922614209,
+ stdev = 1.4855736307099199
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6152, median = 7.0, mean = 6.65035760728218
+5, stdev = 0.6306692439496375
+num combos after cascades is 8
+after cascades stats: sample size = 6152, median = 8.0, mean = 7.830786736020806
+, stdev = 1.4854544535973127
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6153, median = 7.0, mean = 6.65041443198439
+8, stdev = 0.6306337432464564
+num combos after cascades is 7
+after cascades stats: sample size = 6153, median = 8.0, mean = 7.830651714610759
+, stdev = 1.4853714928398725
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6154, median = 7.0, mean = 6.65063373415664
+6, stdev = 0.6308170991782951
+num combos after cascades is 9
+after cascades stats: sample size = 6154, median = 8.0, mean = 7.830841728956776
+, stdev = 1.4853255902904439
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6155, median = 7.0, mean = 6.65052802599512
+6, stdev = 0.6308203604830105
+num combos after cascades is 7
+after cascades stats: sample size = 6155, median = 8.0, mean = 7.830706742485784
+, stdev = 1.4852426752329968
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6156, median = 7.0, mean = 6.65042235217673
+8, stdev = 0.6308236030063599
+num combos after cascades is 6
+after cascades stats: sample size = 6156, median = 8.0, mean = 7.830409356725146
+, stdev = 1.485305288901271
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6157, median = 7.0, mean = 6.65047912944615
+85, stdev = 0.6307881031546536
+num combos after cascades is 7
+after cascades stats: sample size = 6157, median = 8.0, mean = 7.830274484326782
+, stdev = 1.485222363677159
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6158, median = 7.0, mean = 6.65037349788892
+5, stdev = 0.6307913418447292
+num combos after cascades is 7
+after cascades stats: sample size = 6158, median = 8.0, mean = 7.83013965573238,
+ stdev = 1.485139448515034
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6159, median = 7.0, mean = 6.65043026465335
+3, stdev = 0.6307558613410652
+num combos after cascades is 9
+after cascades stats: sample size = 6159, median = 8.0, mean = 7.83032959896087,
+ stdev = 1.48509367922138
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6160, median = 7.0, mean = 6.65032467532467
+6, stdev = 0.630759096203203
+num combos after cascades is 8
+after cascades stats: sample size = 6160, median = 8.0, mean = 7.830357142857143
+, stdev = 1.4849747043128247
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6161, median = 7.0, mean = 6.65054374289888
+, stdev = 0.6309422183161071
+num combos after cascades is 9
+after cascades stats: sample size = 6161, median = 8.0, mean = 7.830546989125142
+, stdev = 1.4849289437434927
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6162, median = 7.0, mean = 6.65060045439792
+3, stdev = 0.6309067237809949
+num combos after cascades is 9
+after cascades stats: sample size = 6162, median = 8.0, mean = 7.830736773774748
+, stdev = 1.4848831723567442
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6163, median = 7.0, mean = 6.65065714749310
+4, stdev = 0.6308712336729791
+num combos after cascades is 7
+after cascades stats: sample size = 6163, median = 8.0, mean = 7.830601979555412
+, stdev = 1.4848004025394852
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6164, median = 7.0, mean = 6.65071382219338
+1, stdev = 0.6308357479919421
+num combos after cascades is 10
+after cascades stats: sample size = 6164, median = 8.0, mean = 7.830953926022063
+5, stdev = 1.4849370225327014
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6165, median = 7.0, mean = 6.65060827250608
+3, stdev = 0.6308390142969234
+num combos after cascades is 8
+after cascades stats: sample size = 6165, median = 8.0, mean = 7.830981346309813
+, stdev = 1.4848181454431602
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6166, median = 7.0, mean = 6.65050275705481
+65, stdev = 0.6308422618740288
+num combos after cascades is 6
+after cascades stats: sample size = 6166, median = 8.0, mean = 7.830684398313331
+, stdev = 1.484880799247069
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6167, median = 7.0, mean = 6.65055942922004
+2, stdev = 0.6308068103916803
+num combos after cascades is 7
+after cascades stats: sample size = 6167, median = 8.0, mean = 7.830549700016215
+, stdev = 1.484798078622798
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6168, median = 7.0, mean = 6.65045395590142
+7, stdev = 0.6308100541398595
+num combos after cascades is 8
+after cascades stats: sample size = 6168, median = 8.0, mean = 7.830577172503243
+, stdev = 1.4846792782346323
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6169, median = 7.0, mean = 6.65051061760415
+, stdev = 0.630774621946565
+num combos after cascades is 10
+after cascades stats: sample size = 6169, median = 8.0, mean = 7.830928837737073
+, stdev = 1.4848158241791882
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6170, median = 7.0, mean = 6.65056726094003
+3, stdev = 0.6307391941613913
+num combos after cascades is 7
+after cascades stats: sample size = 6170, median = 8.0, mean = 7.830794165316045
+, stdev = 1.484733172857966
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6171, median = 7.0, mean = 6.65046183762761
+34, stdev = 0.6307424489508495
+num combos after cascades is 6
+after cascades stats: sample size = 6171, median = 8.0, mean = 7.830497488251499
+, stdev = 1.4847957558780034
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6172, median = 7.0, mean = 6.65051847051198
+9, stdev = 0.6307070404326585
+num combos after cascades is 9
+after cascades stats: sample size = 6172, median = 8.0, mean = 7.830686973428386
+, stdev = 1.484750082469525
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6173, median = 7.0, mean = 6.65057508504778
+9, stdev = 0.6306716363164407
+num combos after cascades is 7
+after cascades stats: sample size = 6173, median = 8.0, mean = 7.830552405637453
+, stdev = 1.4846674563909428
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6174, median = 7.0, mean = 6.65046971169420
+15, stdev = 0.6306749021271165
+num combos after cascades is 6
+after cascades stats: sample size = 6174, median = 8.0, mean = 7.830255911888565
+, stdev = 1.4847299741551303
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6175, median = 7.0, mean = 6.65052631578947
+4, stdev = 0.6306395172557294
+num combos after cascades is 8
+after cascades stats: sample size = 6175, median = 8.0, mean = 7.830283400809717
+, stdev = 1.4846113194659327
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6176, median = 7.0, mean = 6.65042098445595
+9, stdev = 0.6306427792340263
+num combos after cascades is 8
+after cascades stats: sample size = 6176, median = 8.0, mean = 7.830310880829016
+, stdev = 1.4844926932130909
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6177, median = 7.0, mean = 6.65047757811235
+2, stdev = 0.6306074135917225
+num combos after cascades is 8
+after cascades stats: sample size = 6177, median = 8.0, mean = 7.830338351950785
+, stdev = 1.4843740953850246
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6178, median = 7.0, mean = 6.65053415344771
+8, stdev = 0.6305720523388978
+num combos after cascades is 9
+after cascades stats: sample size = 6178, median = 8.0, mean = 7.830527678860473
+, stdev = 1.48432854194142
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6179, median = 7.0, mean = 6.65042887198575
+8, stdev = 0.630575325314017
+num combos after cascades is 7
+after cascades stats: sample size = 6179, median = 8.0, mean = 7.830393267519016
+, stdev = 1.4842460264698896
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6180, median = 7.0, mean = 6.65048543689320
+4, stdev = 0.6305399832681985
+num combos after cascades is 7
+after cascades stats: sample size = 6180, median = 8.0, mean = 7.830258899676376
+, stdev = 1.4841635209501531
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6181, median = 7.0, mean = 6.65038019737906
+5, stdev = 0.6305432524119572
+num combos after cascades is 6
+after cascades stats: sample size = 6181, median = 8.0, mean = 7.829962789192687
+, stdev = 1.4842260121393398
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6182, median = 7.0, mean = 6.65027499191200
+3, stdev = 0.6305465029250658
+num combos after cascades is 10
+after cascades stats: sample size = 6182, median = 8.0, mean = 7.830313814299579
+, stdev = 1.4843625312242605
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6183, median = 7.0, mean = 6.65033155426168
+5, stdev = 0.6305111948752212
+num combos after cascades is 7
+after cascades stats: sample size = 6183, median = 8.0, mean = 7.830179524502668
+, stdev = 1.4842800461824268
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6184, median = 7.0, mean = 6.65022639068564
+, stdev = 0.6305144415769447
+num combos after cascades is 7
+after cascades stats: sample size = 6184, median = 8.0, mean = 7.830045278137128
+, stdev = 1.4841975710911244
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6185, median = 7.0, mean = 6.65012126111560
+2, stdev = 0.6305176696804101
+num combos after cascades is 7
+after cascades stats: sample size = 6185, median = 8.0, mean = 7.829911075181892
+, stdev = 1.484115105950657
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6186, median = 7.0, mean = 6.65017782088587
+15, stdev = 0.6304823955887091
+num combos after cascades is 9
+after cascades stats: sample size = 6186, median = 8.0, mean = 7.830100226317491
+, stdev = 1.4840696998072627
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6187, median = 7.0, mean = 6.65023436237271
+7, stdev = 0.6304471258552784
+num combos after cascades is 9
+after cascades stats: sample size = 6187, median = 8.0, mean = 7.830289316308389
+, stdev = 1.4840242828561145
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6188, median = 7.0, mean = 6.65029088558500
+4, stdev = 0.6304118604802826
+num combos after cascades is 10
+after cascades stats: sample size = 6188, median = 8.0, mean = 7.830639948287007
+, stdev = 1.484160643617808
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6189, median = 7.0, mean = 6.65034739053158
+8, stdev = 0.6303765994636826
+num combos after cascades is 9
+after cascades stats: sample size = 6189, median = 8.0, mean = 7.830828889966069
+, stdev = 1.48411516071881
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6190, median = 7.0, mean = 6.65024232633279
+5, stdev = 0.6303798681046
+num combos after cascades is 6
+after cascades stats: sample size = 6190, median = 8.0, mean = 7.830533117932148
+5, stdev = 1.4841776844925294
+calculating...
+num combos before cascades is 5
+before cascades stats: sample size = 6191, median = 7.0, mean = 6.64997577128089
+2, stdev = 0.6306777314632785
+num combos after cascades is 5
+after cascades stats: sample size = 6191, median = 8.0, mean = 7.830075916653207
+, stdev = 1.484493687874478
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6192, median = 7.0, mean = 6.64987080103359
+1, stdev = 0.6306808870105352
+num combos after cascades is 7
+after cascades stats: sample size = 6192, median = 8.0, mean = 7.829941860465116
+, stdev = 1.4844112873474904
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6193, median = 7.0, mean = 6.64976586468593
+6, stdev = 0.6306840240604069
+num combos after cascades is 6
+after cascades stats: sample size = 6193, median = 8.0, mean = 7.829646374939448
+, stdev = 1.4844735439945016
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6194, median = 7.0, mean = 6.64966096222150
+5, stdev = 0.63068714263044
+num combos after cascades is 6
+after cascades stats: sample size = 6194, median = 8.0, mean = 7.829350984824023
+, stdev = 1.4845357191439295
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6195, median = 7.0, mean = 6.64971751412429
+4, stdev = 0.6306519431428249
+num combos after cascades is 7
+after cascades stats: sample size = 6195, median = 8.0, mean = 7.829217110573043
+, stdev = 1.4844532886759434
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6196, median = 7.0, mean = 6.64961265332472
+5, stdev = 0.6306550580070214
+num combos after cascades is 7
+after cascades stats: sample size = 6196, median = 8.0, mean = 7.829083279535184
+, stdev = 1.484370868172193
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6197, median = 7.0, mean = 6.64966919477166
+4, stdev = 0.6306198775986028
+num combos after cascades is 10
+after cascades stats: sample size = 6197, median = 8.0, mean = 7.829433596901727
+, stdev = 1.4845072277365075
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6198, median = 7.0, mean = 6.64972571797354
+, stdev = 0.6305847015133168
+num combos after cascades is 9
+after cascades stats: sample size = 6198, median = 8.0, mean = 7.829622458857696
+, stdev = 1.4844619189658903
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6199, median = 7.0, mean = 6.64978222293918
+4, stdev = 0.630549529751131
+num combos after cascades is 7
+after cascades stats: sample size = 6199, median = 8.0, mean = 7.829488627197935
+, stdev = 1.4843795739715446
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6200, median = 7.0, mean = 6.64967741935483
+85, stdev = 0.6305526703894513
+num combos after cascades is 7
+after cascades stats: sample size = 6200, median = 8.0, mean = 7.829354838709677
+, stdev = 1.4842972389128835
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6201, median = 7.0, mean = 6.64973391388485
+7, stdev = 0.6305175176786301
+num combos after cascades is 8
+after cascades stats: sample size = 6201, median = 8.0, mean = 7.829382357684245
+, stdev = 1.4841791337588846
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6202, median = 7.0, mean = 6.64962915188648
+8, stdev = 0.6305206546023605
+num combos after cascades is 9
+after cascades stats: sample size = 6202, median = 8.0, mean = 7.829571106094808
+, stdev = 1.4841339036327437
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6203, median = 7.0, mean = 6.64968563598258
+9, stdev = 0.6304855209273224
+num combos after cascades is 10
+after cascades stats: sample size = 6203, median = 8.0, mean = 7.829921005964856
+, stdev = 1.4842700763019794
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6204, median = 7.0, mean = 6.64974210186976
+1, stdev = 0.6304503915632683
+num combos after cascades is 7
+after cascades stats: sample size = 6204, median = 8.0, mean = 7.829787234042553
+, stdev = 1.4841878448690515
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6205, median = 7.0, mean = 6.64963738920225
+6, stdev = 0.630453539486738
+num combos after cascades is 7
+after cascades stats: sample size = 6205, median = 8.0, mean = 7.829653505237712
+, stdev = 1.4841056233349148
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6206, median = 7.0, mean = 6.64953271028037
+4, stdev = 0.630456668996685
+num combos after cascades is 7
+after cascades stats: sample size = 6206, median = 8.0, mean = 7.829519819529487
+, stdev = 1.4840234117003228
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6207, median = 7.0, mean = 6.64975028193974
+5, stdev = 0.630638843462726
+num combos after cascades is 6
+after cascades stats: sample size = 6207, median = 8.0, mean = 7.829225068471081
+, stdev = 1.4840855229086738
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6208, median = 7.0, mean = 6.64980670103092
+7, stdev = 0.6306037147922421
+num combos after cascades is 8
+after cascades stats: sample size = 6208, median = 8.0, mean = 7.829252577319588
+, stdev = 1.4839675706152091
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6209, median = 7.0, mean = 6.64986310194878
+4, stdev = 0.6305685904354802
+num combos after cascades is 8
+after cascades stats: sample size = 6209, median = 8.0, mean = 7.829280077307135
+, stdev = 1.4838496464344624
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6210, median = 7.0, mean = 6.64975845410628
+, stdev = 0.6305717362857233
+num combos after cascades is 7
+after cascades stats: sample size = 6210, median = 8.0, mean = 7.82914653784219,
+ stdev = 1.483767481200796
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6211, median = 7.0, mean = 6.64981484463049
+45, stdev = 0.6305366309226778
+num combos after cascades is 9
+after cascades stats: sample size = 6211, median = 8.0, mean = 7.829335050716470
+5, stdev = 1.4837224003459164
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6212, median = 7.0, mean = 6.64971023824855
+1, stdev = 0.6305397730623182
+num combos after cascades is 6
+after cascades stats: sample size = 6212, median = 8.0, mean = 7.829040566645203
+, stdev = 1.4837844859686782
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6213, median = 7.0, mean = 6.64976661838081
+5, stdev = 0.6305046866774561
+num combos after cascades is 8
+after cascades stats: sample size = 6213, median = 8.0, mean = 7.829068083051665
+5, stdev = 1.4836666565705259
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6214, median = 7.0, mean = 6.64966205342774
+4, stdev = 0.6305078251115519
+num combos after cascades is 8
+after cascades stats: sample size = 6214, median = 8.0, mean = 7.829095590601867
+, stdev = 1.4835488552321952
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6215, median = 7.0, mean = 6.64971842316975
+1, stdev = 0.6304727576893152
+num combos after cascades is 7
+after cascades stats: sample size = 6215, median = 8.0, mean = 7.828962188254223
+5, stdev = 1.4834667712767975
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6216, median = 7.0, mean = 6.64977477477477
+5, stdev = 0.6304376945625897
+num combos after cascades is 9
+after cascades stats: sample size = 6216, median = 8.0, mean = 7.829150579150579
+, stdev = 1.4834217893522987
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6217, median = 7.0, mean = 6.64999195753578
+9, stdev = 0.6306195012684622
+num combos after cascades is 9
+after cascades stats: sample size = 6217, median = 8.0, mean = 7.829338909441853
+, stdev = 1.4833767966206035
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6218, median = 7.0, mean = 6.64988742360887
+7, stdev = 0.630622655995541
+num combos after cascades is 6
+after cascades stats: sample size = 6218, median = 8.0, mean = 7.829044708909617
+, stdev = 1.4834388931648477
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6219, median = 7.0, mean = 6.64978292329956
+6, stdev = 0.6306257923728534
+num combos after cascades is 9
+after cascades stats: sample size = 6219, median = 8.0, mean = 7.829232995658466
+, stdev = 1.4833939261102673
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6220, median = 7.0, mean = 6.64967845659164
+, stdev = 0.6306289104179169
+num combos after cascades is 7
+after cascades stats: sample size = 6220, median = 8.0, mean = 7.829099678456592
+, stdev = 1.4833119368363985
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6221, median = 7.0, mean = 6.64957402346889
+6, stdev = 0.6306320101481565
+num combos after cascades is 9
+after cascades stats: sample size = 6221, median = 8.0, mean = 7.829287895836682
+, stdev = 1.4832669938296685
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6222, median = 7.0, mean = 6.64946962391514
+, stdev = 0.6306350915809631
+num combos after cascades is 7
+after cascades stats: sample size = 6222, median = 8.0, mean = 7.829154612664738
+, stdev = 1.4831850492337
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6223, median = 7.0, mean = 6.64936525791418
+9, stdev = 0.6306381547338198
+num combos after cascades is 6
+after cascades stats: sample size = 6223, median = 8.0, mean = 7.828860678129519
+, stdev = 1.4832470982261552
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6224, median = 7.0, mean = 6.64926092544987
+1, stdev = 0.6306411996241672
+num combos after cascades is 7
+after cascades stats: sample size = 6224, median = 8.0, mean = 7.828727506426735
+, stdev = 1.4831651436994684
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6225, median = 7.0, mean = 6.64947791164658
+7, stdev = 0.6308228582001184
+num combos after cascades is 7
+after cascades stats: sample size = 6225, median = 8.0, mean = 7.82859437751004,
+ stdev = 1.4830831990247442
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6226, median = 7.0, mean = 6.64953421137166
+7, stdev = 0.6307878360617362
+num combos after cascades is 8
+after cascades stats: sample size = 6226, median = 8.0, mean = 7.828621908127208
+, stdev = 1.4829656810074745
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6227, median = 7.0, mean = 6.64942990203950
+6, stdev = 0.6307908826631139
+num combos after cascades is 6
+after cascades stats: sample size = 6227, median = 8.0, mean = 7.828328247952465
+, stdev = 1.4830276290819737
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6228, median = 7.0, mean = 6.64932562620423
+9, stdev = 0.6307939110309333
+num combos after cascades is 8
+after cascades stats: sample size = 6228, median = 8.0, mean = 7.828355812459859
+, stdev = 1.4829101582682835
+calculating...
+num combos before cascades is 5
+before cascades stats: sample size = 6229, median = 7.0, mean = 6.64906084443730
+9, stdev = 0.6310893127377006
+num combos after cascades is 5
+after cascades stats: sample size = 6229, median = 8.0, mean = 7.827901749879595
+5, stdev = 1.4832240397439267
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6230, median = 7.0, mean = 6.64911717495987
+2, stdev = 0.6310543223039927
+num combos after cascades is 8
+after cascades stats: sample size = 6230, median = 8.0, mean = 7.82792937399679,
+ stdev = 1.4831065986007197
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6231, median = 7.0, mean = 6.64917348740170
+1, stdev = 0.6310193361359644
+num combos after cascades is 10
+after cascades stats: sample size = 6231, median = 8.0, mean = 7.828277965013641
+, stdev = 1.4832428040027286
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6232, median = 7.0, mean = 6.64906931964056
+5, stdev = 0.6310222824886041
+num combos after cascades is 6
+after cascades stats: sample size = 6232, median = 8.0, mean = 7.82798459563543,
+ stdev = 1.4833045783531547
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6233, median = 7.0, mean = 6.64896518530402
+7, stdev = 0.6310252106946176
+num combos after cascades is 6
+after cascades stats: sample size = 6233, median = 8.0, mean = 7.827691320391465
+, stdev = 1.483366272317879
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6234, median = 7.0, mean = 6.64886108437600
+2, stdev = 0.6310281207713847
+num combos after cascades is 7
+after cascades stats: sample size = 6234, median = 8.0, mean = 7.827558549887713
+, stdev = 1.4832843319975033
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6235, median = 7.0, mean = 6.64891740176423
+4, stdev = 0.6309931826459414
+num combos after cascades is 8
+after cascades stats: sample size = 6235, median = 8.0, mean = 7.827586206896552
+, stdev = 1.4831669865291566
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6236, median = 7.0, mean = 6.64881334188582
+4, stdev = 0.6309960891966827
+num combos after cascades is 6
+after cascades stats: sample size = 6236, median = 8.0, mean = 7.827293136626042
+, stdev = 1.4832285999000614
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6237, median = 7.0, mean = 6.64870931537598
+2, stdev = 0.6309989776493629
+num combos after cascades is 6
+after cascades stats: sample size = 6237, median = 8.0, mean = 7.827000160333494
+, stdev = 1.4832901330781811
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6238, median = 7.0, mean = 6.64876563000961
+9, stdev = 0.6309640729279983
+num combos after cascades is 7
+after cascades stats: sample size = 6238, median = 8.0, mean = 7.826867585764668
+, stdev = 1.4832081915145257
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6239, median = 7.0, mean = 6.64882192659079
+95, stdev = 0.630929172441753
+num combos after cascades is 8
+after cascades stats: sample size = 6239, median = 8.0, mean = 7.826895335790992
+, stdev = 1.4830909403683046
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6240, median = 7.0, mean = 6.64887820512820
+5, stdev = 0.6308942761906611
+num combos after cascades is 8
+after cascades stats: sample size = 6240, median = 8.0, mean = 7.826923076923077
+, stdev = 1.4829737170176078
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6241, median = 7.0, mean = 6.64893446563050
+8, stdev = 0.6308593841749367
+num combos after cascades is 12
+after cascades stats: sample size = 6241, median = 8.0, mean = 7.827591732094215
+, stdev = 1.4837953250138716
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6242, median = 7.0, mean = 6.64899070810637
+7, stdev = 0.6308244963947601
+num combos after cascades is 8
+after cascades stats: sample size = 6242, median = 8.0, mean = 7.827619352771547
+, stdev = 1.4836780690423141
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6243, median = 7.0, mean = 6.64920711196540
+1, stdev = 0.6310056420725453
+num combos after cascades is 9
+after cascades stats: sample size = 6243, median = 8.0, mean = 7.827807144001281
+, stdev = 1.4836334240916413
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6244, median = 7.0, mean = 6.64910313901345
+25, stdev = 0.6310085905756389
+num combos after cascades is 6
+after cascades stats: sample size = 6244, median = 8.0, mean = 7.827514413837283
+, stdev = 1.483694908109305
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6245, median = 7.0, mean = 6.64899919935948
+8, stdev = 0.6310115209971111
+num combos after cascades is 6
+after cascades stats: sample size = 6245, median = 8.0, mean = 7.827221777421937
+, stdev = 1.4837563121649366
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6246, median = 7.0, mean = 6.64905539545308
+95, stdev = 0.6309766338473429
+num combos after cascades is 7
+after cascades stats: sample size = 6246, median = 8.0, mean = 7.827089337175792
+, stdev = 1.4836744464256368
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6247, median = 7.0, mean = 6.64911157355530
+7, stdev = 0.6309417509358503
+num combos after cascades is 8
+after cascades stats: sample size = 6247, median = 8.0, mean = 7.827117016167761
+, stdev = 1.4835573034718579
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6248, median = 7.0, mean = 6.64916773367477
+6, stdev = 0.6309068722629023
+num combos after cascades is 10
+after cascades stats: sample size = 6248, median = 8.0, mean = 7.827464788732394
+, stdev = 1.4836932153714177
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6249, median = 7.0, mean = 6.64906385021603
+4, stdev = 0.6309098281985857
+num combos after cascades is 8
+after cascades stats: sample size = 6249, median = 8.0, mean = 7.827492398783805
+, stdev = 1.4835761013947841
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6250, median = 7.0, mean = 6.64912, stdev =
+ 0.630874968278157
+num combos after cascades is 8
+after cascades stats: sample size = 6250, median = 8.0, mean = 7.82752, stdev = 
+1.483459015139973
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6251, median = 7.0, mean = 6.64917613181890
+9, stdev = 0.630840112590389
+num combos after cascades is 7
+after cascades stats: sample size = 6251, median = 8.0, mean = 7.827387617981123
+, stdev = 1.4833772726676828
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6252, median = 7.0, mean = 6.64907229686500
+3, stdev = 0.6308430794852278
+num combos after cascades is 8
+after cascades stats: sample size = 6252, median = 8.0, mean = 7.827415227127319
+, stdev = 1.483260241936272
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6253, median = 7.0, mean = 6.64912841835918
+7, stdev = 0.6308082425286685
+num combos after cascades is 9
+after cascades stats: sample size = 6253, median = 8.0, mean = 7.827602750679674
+, stdev = 1.483215748479666
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6254, median = 7.0, mean = 6.64902462424048
+6, stdev = 0.6308112058736091
+num combos after cascades is 6
+after cascades stats: sample size = 6254, median = 8.0, mean = 7.82731052126639,
+ stdev = 1.483277178047029
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6255, median = 7.0, mean = 6.64908073541167
+1, stdev = 0.6307763876332465
+num combos after cascades is 7
+after cascades stats: sample size = 6255, median = 8.0, mean = 7.827178257394085
+, stdev = 1.4831954882326994
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6256, median = 7.0, mean = 6.64897698209718
+7, stdev = 0.6307793474329045
+num combos after cascades is 6
+after cascades stats: sample size = 6256, median = 8.0, mean = 7.826886189258312
+, stdev = 1.4832568186649426
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6257, median = 7.0, mean = 6.64903308294709
+9, stdev = 0.6307445478935142
+num combos after cascades is 8
+after cascades stats: sample size = 6257, median = 8.0, mean = 7.826913856480742
+, stdev = 1.4831399005523833
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6258, median = 7.0, mean = 6.64892937040588
+, stdev = 0.630747504152964
+num combos after cascades is 6
+after cascades stats: sample size = 6258, median = 8.0, mean = 7.82662192393736,
+ stdev = 1.4832011705374835
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6259, median = 7.0, mean = 6.64898546093625
+15, stdev = 0.6307127232993233
+num combos after cascades is 8
+after cascades stats: sample size = 6259, median = 8.0, mean = 7.826649624540662
+, stdev = 1.4830842992240192
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6260, median = 7.0, mean = 6.64888178913738
+1, stdev = 0.630715676023226
+num combos after cascades is 9
+after cascades stats: sample size = 6260, median = 8.0, mean = 7.826837060702875
+, stdev = 1.483039975084904
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6261, median = 7.0, mean = 6.64893786934994
+4, stdev = 0.6306809138403077
+num combos after cascades is 9
+after cascades stats: sample size = 6261, median = 8.0, mean = 7.827024436990896
+, stdev = 1.4829956401018989
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6262, median = 7.0, mean = 6.64883423826253
+6, stdev = 0.6306838630335576
+num combos after cascades is 6
+after cascades stats: sample size = 6262, median = 8.0, mean = 7.826732673267327
+, stdev = 1.4830569217126532
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6263, median = 7.0, mean = 6.64889030815903
+, stdev = 0.630649119506152
+num combos after cascades is 9
+after cascades stats: sample size = 6263, median = 8.0, mean = 7.826920006386715
+5, stdev = 1.4830126118752982
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6264, median = 7.0, mean = 6.64878671775223
+5, stdev = 0.6306520651735149
+num combos after cascades is 6
+after cascades stats: sample size = 6264, median = 8.0, mean = 7.826628352490421
+, stdev = 1.483073849984984
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6265, median = 7.0, mean = 6.64884277733439
+8, stdev = 0.6306173402864856
+num combos after cascades is 8
+after cascades stats: sample size = 6265, median = 8.0, mean = 7.826656025538707
+, stdev = 1.4829571007843902
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6266, median = 7.0, mean = 6.64873922757740
+2, stdev = 0.6306202824327979
+num combos after cascades is 6
+after cascades stats: sample size = 6266, median = 8.0, mean = 7.826364506862432
+, stdev = 1.4830182786213078
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6267, median = 7.0, mean = 6.64863571086644
+4, stdev = 0.6306232066315509
+num combos after cascades is 7
+after cascades stats: sample size = 6267, median = 8.0, mean = 7.826232647199617
+, stdev = 1.4829366881720734
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6268, median = 7.0, mean = 6.64885130823229
+1, stdev = 0.6308038410376201
+num combos after cascades is 11
+after cascades stats: sample size = 6268, median = 8.0, mean = 7.826738991703893
+, stdev = 1.4833600839442622
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6269, median = 7.0, mean = 6.64874780666773
+, stdev = 0.6308067525649376
+num combos after cascades is 7
+after cascades stats: sample size = 6269, median = 8.0, mean = 7.826607114372308
+, stdev = 1.4832785170855476
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6270, median = 7.0, mean = 6.64864433811802
+25, stdev = 0.6308096461760104
+num combos after cascades is 8
+after cascades stats: sample size = 6270, median = 8.0, mean = 7.826634768740032
+, stdev = 1.4831618448415536
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6271, median = 7.0, mean = 6.64870036676766
+05, stdev = 0.6307749506988842
+num combos after cascades is 8
+after cascades stats: sample size = 6271, median = 8.0, mean = 7.826662414287992
+, stdev = 1.4830452001177419
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6272, median = 7.0, mean = 6.64859693877551
+, stdev = 0.6307778408285841
+num combos after cascades is 6
+after cascades stats: sample size = 6272, median = 8.0, mean = 7.826371173469388
+, stdev = 1.4831063030368783
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6273, median = 7.0, mean = 6.64865295711780
+7, stdev = 0.630743163944698
+num combos after cascades is 7
+after cascades stats: sample size = 6273, median = 8.0, mean = 7.826239438864976
+5, stdev = 1.4830247820326417
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6274, median = 7.0, mean = 6.64854956965253
+4, stdev = 0.6307460505979252
+num combos after cascades is 7
+after cascades stats: sample size = 6274, median = 8.0, mean = 7.826107746254383
+, stdev = 1.4829432708392318
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6275, median = 7.0, mean = 6.64860557768924
+3, stdev = 0.6307113922923262
+num combos after cascades is 7
+after cascades stats: sample size = 6275, median = 8.0, mean = 7.82597609561753,
+ stdev = 1.4828617694570034
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6276, median = 7.0, mean = 6.64882090503505
+4, stdev = 0.6308917675438258
+num combos after cascades is 8
+after cascades stats: sample size = 6276, median = 8.0, mean = 7.826003824091778
+, stdev = 1.482745254192975
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6277, median = 7.0, mean = 6.64871754022622
+2, stdev = 0.6308946559787533
+num combos after cascades is 8
+after cascades stats: sample size = 6277, median = 8.0, mean = 7.826031543731082
+, stdev = 1.482628766382857
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6278, median = 7.0, mean = 6.64877349474354
+9, stdev = 0.6308599838280413
+num combos after cascades is 7
+after cascades stats: sample size = 6278, median = 8.0, mean = 7.82589996814272,
+ stdev = 1.4825473300116367
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6279, median = 7.0, mean = 6.64882943143812
+7, stdev = 0.6308253158555778
+num combos after cascades is 7
+after cascades stats: sample size = 6279, median = 8.0, mean = 7.825768434464087
+, stdev = 1.4824659034359124
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6280, median = 7.0, mean = 6.64888535031847
+1, stdev = 0.6307906520613752
+num combos after cascades is 7
+after cascades stats: sample size = 6280, median = 8.0, mean = 7.825636942675159
+5, stdev = 1.4823844866560039
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6281, median = 7.0, mean = 6.64878204107626
+2, stdev = 0.6307935657772722
+num combos after cascades is 7
+after cascades stats: sample size = 6281, median = 8.0, mean = 7.825505492755931
+, stdev = 1.4823030796724548
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6282, median = 7.0, mean = 6.64883794969754
+85, stdev = 0.6307589205300086
+num combos after cascades is 11
+after cascades stats: sample size = 6282, median = 8.0, mean = 7.82601082457816,
+ stdev = 1.48272606133057
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6283, median = 7.0, mean = 6.64889384052204
+3, stdev = 0.6307242794554282
+num combos after cascades is 7
+after cascades stats: sample size = 6283, median = 8.0, mean = 7.825879356995066
+, stdev = 1.4826446777897229
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6284, median = 7.0, mean = 6.64894971355824
+3, stdev = 0.6306896425535338
+num combos after cascades is 9
+after cascades stats: sample size = 6284, median = 8.0, mean = 7.826066199872693
+, stdev = 1.4826006768852784
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6285, median = 7.0, mean = 6.64900556881463
+8, stdev = 0.6306550098246008
+num combos after cascades is 8
+after cascades stats: sample size = 6285, median = 8.0, mean = 7.826093874303898
+, stdev = 1.4824843478516745
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6286, median = 7.0, mean = 6.64890232262169
+9, stdev = 0.6306579631127236
+num combos after cascades is 8
+after cascades stats: sample size = 6286, median = 8.0, mean = 7.826121539930003
+5, stdev = 1.4823680461891207
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6287, median = 7.0, mean = 6.64895816764752
+65, stdev = 0.6306233488979371
+num combos after cascades is 7
+after cascades stats: sample size = 6287, median = 8.0, mean = 7.825990138380786
+, stdev = 1.4822867615561346
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6288, median = 7.0, mean = 6.64901399491094
+1, stdev = 0.6305887388504243
+num combos after cascades is 9
+after cascades stats: sample size = 6288, median = 8.0, mean = 7.826176844783715
+, stdev = 1.4822428210083807
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6289, median = 7.0, mean = 6.64891079662903
+5, stdev = 0.6305917029608145
+num combos after cascades is 7
+after cascades stats: sample size = 6289, median = 8.0, mean = 7.826045476228336
+, stdev = 1.4821615801769268
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6290, median = 7.0, mean = 6.64896661367249
+6, stdev = 0.6305571114066126
+num combos after cascades is 8
+after cascades stats: sample size = 6290, median = 8.0, mean = 7.826073131955485
+, stdev = 1.4820453793914283
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6291, median = 7.0, mean = 6.64886345573040
+85, stdev = 0.6305600720029968
+num combos after cascades is 7
+after cascades stats: sample size = 6291, median = 8.0, mean = 7.825941821649976
+, stdev = 1.4819641757698894
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6292, median = 7.0, mean = 6.64876033057851
+2, stdev = 0.6305630147762067
+num combos after cascades is 6
+after cascades stats: sample size = 6292, median = 8.0, mean = 7.825651621106166
+, stdev = 1.4820251597454286
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6293, median = 7.0, mean = 6.64881614492293
+1, stdev = 0.6305284560144054
+num combos after cascades is 9
+after cascades stats: sample size = 6293, median = 8.0, mean = 7.825838232957254
+4, stdev = 1.481981330557852
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6294, median = 7.0, mean = 6.64887194153161
+8, stdev = 0.6304939014020883
+num combos after cascades is 7
+after cascades stats: sample size = 6294, median = 8.0, mean = 7.825707022561169
+, stdev = 1.4819001515163488
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6295, median = 7.0, mean = 6.64892772041302
+7, stdev = 0.6304593509395157
+num combos after cascades is 9
+after cascades stats: sample size = 6295, median = 8.0, mean = 7.825893566322478
+5, stdev = 1.481856345448127
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6296, median = 7.0, mean = 6.64882465057179
+1, stdev = 0.6304623188211755
+num combos after cascades is 7
+after cascades stats: sample size = 6296, median = 8.0, mean = 7.825762388818298
+, stdev = 1.481775210102383
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6297, median = 7.0, mean = 6.64888041924726
+1, stdev = 0.6304277868013652
+num combos after cascades is 7
+after cascades stats: sample size = 6297, median = 8.0, mean = 7.825631252977608
+, stdev = 1.481694084477701
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6298, median = 7.0, mean = 6.64893617021276
+6, stdev = 0.6303932589255292
+num combos after cascades is 9
+after cascades stats: sample size = 6298, median = 8.0, mean = 7.825817719911082
+5, stdev = 1.4816503354488642
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6299, median = 7.0, mean = 6.64883314811874
+9, stdev = 0.6303962375823337
+num combos after cascades is 11
+after cascades stats: sample size = 6299, median = 8.0, mean = 7.826321638355295
+, stdev = 1.4820723592021587
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6300, median = 7.0, mean = 6.64904761904761
+9, stdev = 0.6305759883610005
+num combos after cascades is 9
+after cascades stats: sample size = 6300, median = 8.0, mean = 7.826507936507936
+, stdev = 1.482028488394611
+calculating...
+num combos before cascades is 5
+before cascades stats: sample size = 6301, median = 7.0, mean = 6.64878590699888
+95, stdev = 0.6308680361228483
+num combos after cascades is 6
+after cascades stats: sample size = 6301, median = 8.0, mean = 7.826218060625298
+, stdev = 1.4820894831472289
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6302, median = 7.0, mean = 6.64884163757537
+3, stdev = 0.6308334927550188
+num combos after cascades is 9
+after cascades stats: sample size = 6302, median = 8.0, mean = 7.82640431609013,
+ stdev = 1.4820456370702852
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6303, median = 7.0, mean = 6.64873869585911
+5, stdev = 0.6308363822042402
+num combos after cascades is 6
+after cascades stats: sample size = 6303, median = 8.0, mean = 7.826114548627638
+, stdev = 1.4821065887956348
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6304, median = 7.0, mean = 6.64879441624365
+5, stdev = 0.6308018572547375
+num combos after cascades is 10
+after cascades stats: sample size = 6304, median = 8.0, mean = 7.826459390862944
+5, stdev = 1.4822418889595201
+calculating...
+num combos before cascades is 9
+before cascades stats: sample size = 6305, median = 7.0, mean = 6.64916732751784
+3, stdev = 0.6314463751875367
+num combos after cascades is 8
+after cascades stats: sample size = 6305, median = 8.0, mean = 7.826486915146709
+, stdev = 1.4821259504833908
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6306, median = 7.0, mean = 6.64922296225816
+64, stdev = 0.6314117600569267
+num combos after cascades is 9
+after cascades stats: sample size = 6306, median = 8.0, mean = 7.826673009831906
+, stdev = 1.4820820937649983
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6307, median = 7.0, mean = 6.64912002536863
+8, stdev = 0.6314146155278546
+num combos after cascades is 6
+after cascades stats: sample size = 6307, median = 8.0, mean = 7.826383383542096
+, stdev = 1.4821430520675518
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6308, median = 7.0, mean = 6.64917564996829
+4, stdev = 0.631380018834285
+num combos after cascades is 7
+after cascades stats: sample size = 6308, median = 8.0, mean = 7.826252377932784
+, stdev = 1.4820620845784644
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6309, median = 7.0, mean = 6.64923125693453
+8, stdev = 0.6313454263148193
+num combos after cascades is 10
+after cascades stats: sample size = 6309, median = 8.0, mean = 7.826596925027738
+, stdev = 1.4821972566287045
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6310, median = 7.0, mean = 6.64928684627575
+3, stdev = 0.6313108379693715
+num combos after cascades is 9
+after cascades stats: sample size = 6310, median = 8.0, mean = 7.826782884310618
+, stdev = 1.4821534047266713
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6311, median = 7.0, mean = 6.64918396450641
+8, stdev = 0.6313137184933596
+num combos after cascades is 6
+after cascades stats: sample size = 6311, median = 8.0, mean = 7.826493424180003
+, stdev = 1.4822143316353973
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6312, median = 7.0, mean = 6.64923954372623
+6, stdev = 0.6312791485583654
+num combos after cascades is 8
+after cascades stats: sample size = 6312, median = 8.0, mean = 7.826520912547529
+, stdev = 1.4820985233218533
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6313, median = 7.0, mean = 6.64929510533819
+1, stdev = 0.6312445827919061
+num combos after cascades is 8
+after cascades stats: sample size = 6313, median = 8.0, mean = 7.826548392206558
+, stdev = 1.4819827421420069
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6314, median = 7.0, mean = 6.64935064935065
+, stdev = 0.6312100211939426
+num combos after cascades is 8
+after cascades stats: sample size = 6314, median = 8.0, mean = 7.826575863161229
+, stdev = 1.481866988085366
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6315, median = 7.0, mean = 6.64940617577197
+1, stdev = 0.6311754637645808
+num combos after cascades is 7
+after cascades stats: sample size = 6315, median = 8.0, mean = 7.826444972288202
+, stdev = 1.4817861560071246
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6316, median = 7.0, mean = 6.64946168461051
+3, stdev = 0.6311409105041121
+num combos after cascades is 8
+after cascades stats: sample size = 6316, median = 8.0, mean = 7.826472450918303
+, stdev = 1.4816704562997116
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6317, median = 7.0, mean = 6.64935887288269
+7, stdev = 0.6311438444507323
+num combos after cascades is 6
+after cascades stats: sample size = 6317, median = 8.0, mean = 7.826183314864651
+, stdev = 1.4817313610961185
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6318, median = 7.0, mean = 6.64925609370053
+8, stdev = 0.6311467607152592
+num combos after cascades is 7
+after cascades stats: sample size = 6318, median = 8.0, mean = 7.82605254827477,
+ stdev = 1.4816505468287045
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6319, median = 7.0, mean = 6.64931159993669
+85, stdev = 0.6311122400275339
+num combos after cascades is 9
+after cascades stats: sample size = 6319, median = 8.0, mean = 7.826238328849501
+, stdev = 1.481606896013585
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6320, median = 7.0, mean = 6.64920886075949
+4, stdev = 0.6311151528239821
+num combos after cascades is 7
+after cascades stats: sample size = 6320, median = 8.0, mean = 7.826107594936709
+, stdev = 1.4815261250851102
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6321, median = 7.0, mean = 6.64926435690555
+3, stdev = 0.6310806504849337
+num combos after cascades is 6
+after cascades stats: sample size = 6321, median = 8.0, mean = 7.825818699572852
+, stdev = 1.4815869489827451
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6322, median = 7.0, mean = 6.64916165770325
+8, stdev = 0.6310835598180443
+num combos after cascades is 7
+after cascades stats: sample size = 6322, median = 8.0, mean = 7.825688073394495
+, stdev = 1.4815061686744695
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6323, median = 7.0, mean = 6.64921714376087
+3, stdev = 0.631049075812979
+num combos after cascades is 7
+after cascades stats: sample size = 6323, median = 8.0, mean = 7.825557488533923
+, stdev = 1.4814253980020589
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6324, median = 7.0, mean = 6.64911448450347
+9, stdev = 0.6310519816873661
+num combos after cascades is 6
+after cascades stats: sample size = 6324, median = 8.0, mean = 7.825268817204301
+, stdev = 1.481486105932234
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6325, median = 7.0, mean = 6.64901185770751
+, stdev = 0.6310548699370414
+num combos after cascades is 8
+after cascades stats: sample size = 6325, median = 8.0, mean = 7.825296442687747
+, stdev = 1.4813706167656344
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6326, median = 7.0, mean = 6.64922541890610
+2, stdev = 0.6312335309205159
+num combos after cascades is 9
+after cascades stats: sample size = 6326, median = 8.0, mean = 7.825482137211508
+, stdev = 1.4813271450197345
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6327, median = 7.0, mean = 6.64912280701754
+4, stdev = 0.6312364067680439
+num combos after cascades is 7
+after cascades stats: sample size = 6327, median = 8.0, mean = 7.825351667456931
+, stdev = 1.4812464258207114
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6328, median = 7.0, mean = 6.64902022756005
+1, stdev = 0.6312392650213331
+num combos after cascades is 12
+after cascades stats: sample size = 6328, median = 8.0, mean = 7.826011378002528
+, stdev = 1.4820586597431495
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6329, median = 7.0, mean = 6.64891768051825
+, stdev = 0.6312421056966213
+num combos after cascades is 7
+after cascades stats: sample size = 6329, median = 8.0, mean = 7.825880865855585
+, stdev = 1.4819779369120958
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6330, median = 7.0, mean = 6.64897314375987
+4, stdev = 0.6312076648634634
+num combos after cascades is 10
+after cascades stats: sample size = 6330, median = 8.0, mean = 7.826224328593997
+, stdev = 1.4821127676913202
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6331, median = 7.0, mean = 6.64887063655030
+8, stdev = 0.6312105021322552
+num combos after cascades is 8
+after cascades stats: sample size = 6331, median = 8.0, mean = 7.826251776970463
+, stdev = 1.4819973200557754
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6332, median = 7.0, mean = 6.64892608970309
+5, stdev = 0.6311760795782274
+num combos after cascades is 7
+after cascades stats: sample size = 6332, median = 8.0, mean = 7.826121288692356
+, stdev = 1.481916662983413
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6333, median = 7.0, mean = 6.64898152534343
+9, stdev = 0.6311416611486771
+num combos after cascades is 8
+after cascades stats: sample size = 6333, median = 8.0, mean = 7.826148744670772
+, stdev = 1.4818012694130667
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6334, median = 7.0, mean = 6.64903694347963
+4, stdev = 0.6311072468436421
+num combos after cascades is 8
+after cascades stats: sample size = 6334, median = 8.0, mean = 7.826176191979791
+, stdev = 1.4816859027877962
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6335, median = 7.0, mean = 6.64909234411996
+85, stdev = 0.6310728366632711
+num combos after cascades is 8
+after cascades stats: sample size = 6335, median = 8.0, mean = 7.82620363062352,
+ stdev = 1.4815705630971079
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6336, median = 7.0, mean = 6.64914772727272
+75, stdev = 0.6310384306077345
+num combos after cascades is 9
+after cascades stats: sample size = 6336, median = 8.0, mean = 7.826388888888889
+, stdev = 1.4815270208173903
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6337, median = 7.0, mean = 6.64920309294618
+9, stdev = 0.6310040286772817
+num combos after cascades is 10
+after cascades stats: sample size = 6337, median = 8.0, mean = 7.82673189206249,
+ stdev = 1.4816616972564816
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6338, median = 7.0, mean = 6.64925844114862
+75, stdev = 0.630969630871837
+num combos after cascades is 7
+after cascades stats: sample size = 6338, median = 8.0, mean = 7.826601451562007
+, stdev = 1.4815811935073364
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6339, median = 7.0, mean = 6.64915601829941
+7, stdev = 0.6309725494906854
+num combos after cascades is 8
+after cascades stats: sample size = 6339, median = 8.0, mean = 7.826628805805332
+, stdev = 1.4814659271132242
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6340, median = 7.0, mean = 6.64905362776025
+2, stdev = 0.630975450557415
+num combos after cascades is 7
+after cascades stats: sample size = 6340, median = 8.0, mean = 7.826498422712934
+, stdev = 1.4813854599368383
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6341, median = 7.0, mean = 6.64910897334805
+2, stdev = 0.6309410850835759
+num combos after cascades is 15
+after cascades stats: sample size = 6341, median = 8.0, mean = 7.827629711401987
+, stdev = 1.4840049935156383
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6342, median = 7.0, mean = 6.64900662251655
+65, stdev = 0.6309439827134147
+num combos after cascades is 7
+after cascades stats: sample size = 6342, median = 8.0, mean = 7.827499211605172
+, stdev = 1.4839243772757775
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6343, median = 7.0, mean = 6.64890430395711
+8, stdev = 0.6309468628209974
+num combos after cascades is 6
+after cascades stats: sample size = 6343, median = 8.0, mean = 7.827211098849125
+, stdev = 1.483984784618949
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6344, median = 7.0, mean = 6.64895964691046
+6, stdev = 0.6309125296437104
+num combos after cascades is 9
+after cascades stats: sample size = 6344, median = 8.0, mean = 7.827395964691046
+, stdev = 1.4839408622165946
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6345, median = 7.0, mean = 6.64917257683215
+1, stdev = 0.631090736031277
+num combos after cascades is 11
+after cascades stats: sample size = 6345, median = 8.0, mean = 7.827895981087471
+, stdev = 1.4843582886133289
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6346, median = 7.0, mean = 6.64922786006933
+5, stdev = 0.6310563753233185
+num combos after cascades is 8
+after cascades stats: sample size = 6346, median = 8.0, mean = 7.827923101166089
+, stdev = 1.484242903824523
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6347, median = 7.0, mean = 6.64912557113596
+9, stdev = 0.6310592712509312
+num combos after cascades is 6
+after cascades stats: sample size = 6347, median = 8.0, mean = 7.827635103198362
+, stdev = 1.4843032922074988
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6348, median = 7.0, mean = 6.64933837429111
+6, stdev = 0.6312372730032384
+num combos after cascades is 11
+after cascades stats: sample size = 6348, median = 8.0, mean = 7.828134845620668
+, stdev = 1.4847202819993002
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6349, median = 7.0, mean = 6.64923610017325
+6, stdev = 0.6312401566048037
+num combos after cascades is 7
+after cascades stats: sample size = 6349, median = 8.0, mean = 7.82800441014333,
+ stdev = 1.4846397251662338
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6350, median = 7.0, mean = 6.64929133858267
+7, stdev = 0.6312057965841757
+num combos after cascades is 8
+after cascades stats: sample size = 6350, median = 8.0, mean = 7.828031496062992
+, stdev = 1.4845243886259885
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6351, median = 7.0, mean = 6.64950401511572
+9, stdev = 0.6313835940998097
+num combos after cascades is 9
+after cascades stats: sample size = 6351, median = 8.0, mean = 7.828216028971815
+5, stdev = 1.484480343643648
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6352, median = 7.0, mean = 6.64940176322418
+2, stdev = 0.6313864794602517
+num combos after cascades is 6
+after cascades stats: sample size = 6352, median = 8.0, mean = 7.827928211586902
+, stdev = 1.4845406942661314
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6353, median = 7.0, mean = 6.64929954352274
+5, stdev = 0.6313893473476571
+num combos after cascades is 6
+after cascades stats: sample size = 6353, median = 8.0, mean = 7.827640484810326
+, stdev = 1.4846009676649512
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6354, median = 7.0, mean = 6.64935473717343
+4, stdev = 0.6313549880496624
+num combos after cascades is 7
+after cascades stats: sample size = 6354, median = 8.0, mean = 7.827510229776519
+, stdev = 1.484520443156492
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6355, median = 7.0, mean = 6.6492525570417,
+ stdev = 0.6313578525257277
+num combos after cascades is 8
+after cascades stats: sample size = 6355, median = 8.0, mean = 7.827537372147915
+, stdev = 1.4844052158976497
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6356, median = 7.0, mean = 6.64915040906230
+4, stdev = 0.6313606995582439
+num combos after cascades is 8
+after cascades stats: sample size = 6356, median = 8.0, mean = 7.827564505978603
+, stdev = 1.4842900154594243
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6357, median = 7.0, mean = 6.64936290703161
+9, stdev = 0.631538308801828
+num combos after cascades is 11
+after cascades stats: sample size = 6357, median = 8.0, mean = 7.828063551989932
+, stdev = 1.4847064446315106
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6358, median = 7.0, mean = 6.64926077382824
+8, stdev = 0.6315411435912749
+num combos after cascades is 6
+after cascades stats: sample size = 6358, median = 8.0, mean = 7.827776030198176
+, stdev = 1.4847666640665567
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6359, median = 7.0, mean = 6.64915867274728
+7, stdev = 0.6315439609672571
+num combos after cascades is 6
+after cascades stats: sample size = 6359, median = 8.0, mean = 7.827488598836295
+, stdev = 1.4848268064711465
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6360, median = 7.0, mean = 6.64921383647798
+8, stdev = 0.6315096304835371
+num combos after cascades is 7
+after cascades stats: sample size = 6360, median = 8.0, mean = 7.827358490566038
+, stdev = 1.4847463213559398
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6361, median = 7.0, mean = 6.64926898286433
+, stdev = 0.6314753041116534
+num combos after cascades is 10
+after cascades stats: sample size = 6361, median = 8.0, mean = 7.827700047162396
+, stdev = 1.4848794703986532
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6362, median = 7.0, mean = 6.64932411191449
+2, stdev = 0.6314409818518015
+num combos after cascades is 7
+after cascades stats: sample size = 6362, median = 8.0, mean = 7.827569946557686
+, stdev = 1.4847990236856319
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6363, median = 7.0, mean = 6.64937922363664
+9, stdev = 0.6314066637040265
+num combos after cascades is 10
+after cascades stats: sample size = 6363, median = 8.0, mean = 7.827911362564828
+, stdev = 1.484932069272883
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6364, median = 7.0, mean = 6.64943431803896
+9, stdev = 0.6313723496684973
+num combos after cascades is 7
+after cascades stats: sample size = 6364, median = 8.0, mean = 7.827781269641735
+, stdev = 1.4848516609363174
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6365, median = 7.0, mean = 6.64948939512961
+5, stdev = 0.6313380397453714
+num combos after cascades is 7
+after cascades stats: sample size = 6365, median = 8.0, mean = 7.827651217596229
+, stdev = 1.4847712621200053
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6366, median = 7.0, mean = 6.64938737040527
+8, stdev = 0.6313409237801937
+num combos after cascades is 6
+after cascades stats: sample size = 6366, median = 8.0, mean = 7.827364121897581
+, stdev = 1.4848313133862163
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6367, median = 7.0, mean = 6.64928537772891
+5, stdev = 0.631343790416628
+num combos after cascades is 7
+after cascades stats: sample size = 6367, median = 8.0, mean = 7.827234176221141
+, stdev = 1.4847509054094317
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6368, median = 7.0, mean = 6.64934045226130
+6, stdev = 0.6313095125808923
+num combos after cascades is 7
+after cascades stats: sample size = 6368, median = 8.0, mean = 7.827104271356783
+5, stdev = 1.4846705069654402
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6369, median = 7.0, mean = 6.64923849897943
+15, stdev = 0.6313123758182116
+num combos after cascades is 6
+after cascades stats: sample size = 6369, median = 8.0, mean = 7.826817396765583
+, stdev = 1.4847304441737608
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6370, median = 7.0, mean = 6.64913657770800
+6, stdev = 0.6313152216865083
+num combos after cascades is 5
+after cascades stats: sample size = 6370, median = 8.0, mean = 7.826373626373626
+, stdev = 1.4850362585771064
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6371, median = 7.0, mean = 6.64934861089310
+9, stdev = 0.6314924653170477
+num combos after cascades is 9
+after cascades stats: sample size = 6371, median = 8.0, mean = 7.826557840213467
+, stdev = 1.4849924921837394
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6372, median = 7.0, mean = 6.64940364092906
+5, stdev = 0.6314581882255166
+num combos after cascades is 13
+after cascades stats: sample size = 6372, median = 8.0, mean = 7.82736974262398,
+ stdev = 1.4862894387728633
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6373, median = 7.0, mean = 6.64930174172289
+3, stdev = 0.6314610358656773
+num combos after cascades is 8
+after cascades stats: sample size = 6373, median = 8.0, mean = 7.827396830378158
+, stdev = 1.4861743988709284
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6374, median = 7.0, mean = 6.64935676184499
+5, stdev = 0.631426776839184
+num combos after cascades is 7
+after cascades stats: sample size = 6374, median = 8.0, mean = 7.827267022278004
+, stdev = 1.4860939440253096
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6375, median = 7.0, mean = 6.64925490196078
+4, stdev = 0.631429621096103
+num combos after cascades is 7
+after cascades stats: sample size = 6375, median = 8.0, mean = 7.82713725490196,
+ stdev = 1.4860134987327762
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6376, median = 7.0, mean = 6.64930991217064
+, stdev = 0.6313953801202523
+num combos after cascades is 9
+after cascades stats: sample size = 6376, median = 8.0, mean = 7.827321204516939
+, stdev = 1.4859695476613373
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6377, median = 7.0, mean = 6.64936490512780
+3, stdev = 0.6313611432364866
+num combos after cascades is 8
+after cascades stats: sample size = 6377, median = 8.0, mean = 7.827348282891641
+, stdev = 1.4858546062269278
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6378, median = 7.0, mean = 6.64957666980244
+6, stdev = 0.6315380957765804
+num combos after cascades is 10
+after cascades stats: sample size = 6378, median = 8.0, mean = 7.827688930699279
+, stdev = 1.4859871301047738
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6379, median = 7.0, mean = 6.64963160369963
+9, stdev = 0.631503831781373
+num combos after cascades is 13
+after cascades stats: sample size = 6379, median = 8.0, mean = 7.828499764853425
+, stdev = 1.4872810156014091
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6380, median = 7.0, mean = 6.64968652037617
+6, stdev = 0.631469571892282
+num combos after cascades is 7
+after cascades stats: sample size = 6380, median = 8.0, mean = 7.828369905956113
+, stdev = 1.4872006190663356
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6381, median = 7.0, mean = 6.64958470459175
+6, stdev = 0.6314724597304456
+num combos after cascades is 6
+after cascades stats: sample size = 6381, median = 8.0, mean = 7.828083372512145
+, stdev = 1.4872601893979198
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6382, median = 7.0, mean = 6.64948292071451
+, stdev = 0.6314753302420302
+num combos after cascades is 8
+after cascades stats: sample size = 6382, median = 8.0, mean = 7.828110310247571
+, stdev = 1.4871452217004892
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6383, median = 7.0, mean = 6.64953783487388
+3, stdev = 0.6314411023020482
+num combos after cascades is 7
+after cascades stats: sample size = 6383, median = 8.0, mean = 7.827980573398088
+, stdev = 1.4870648429136526
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6384, median = 7.0, mean = 6.64959273182957
+4, stdev = 0.6314068784569348
+num combos after cascades is 6
+after cascades stats: sample size = 6384, median = 8.0, mean = 7.827694235588972
+5, stdev = 1.4871243370095868
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6385, median = 7.0, mean = 6.64964761158966
+3, stdev = 0.6313726587066059
+num combos after cascades is 7
+after cascades stats: sample size = 6385, median = 8.0, mean = 7.827564604541895
+, stdev = 1.487043949271038
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6386, median = 7.0, mean = 6.64954588161603
+5, stdev = 0.631375553641763
+num combos after cascades is 9
+after cascades stats: sample size = 6386, median = 8.0, mean = 7.827748199185719
+, stdev = 1.4869998833771783
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6387, median = 7.0, mean = 6.64960075152653
+8, stdev = 0.6313413518862843
+num combos after cascades is 10
+after cascades stats: sample size = 6387, median = 8.0, mean = 7.828088304368248
+, stdev = 1.4871318479778786
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6388, median = 7.0, mean = 6.64949906073888
+55, stdev = 0.6313442434151875
+num combos after cascades is 8
+after cascades stats: sample size = 6388, median = 8.0, mean = 7.828115216030056
+4, stdev = 1.4870169983603936
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6389, median = 7.0, mean = 6.64955392080137
+7, stdev = 0.6313100596403358
+num combos after cascades is 11
+after cascades stats: sample size = 6389, median = 8.0, mean = 7.828611676318673
+, stdev = 1.4874299727597866
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6390, median = 7.0, mean = 6.64976525821596
+3, stdev = 0.6314866390164228
+num combos after cascades is 8
+after cascades stats: sample size = 6390, median = 8.0, mean = 7.828638497652582
+, stdev = 1.4873151259993753
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6391, median = 7.0, mean = 6.64966358942262
+6, stdev = 0.6314895322744393
+num combos after cascades is 7
+after cascades stats: sample size = 6391, median = 8.0, mean = 7.828508840557033
+, stdev = 1.4872348764490975
+calculating...
+num combos before cascades is 8
+before cascades stats: sample size = 6392, median = 7.0, mean = 6.64987484355444
+3, stdev = 0.6316659415249098
+num combos after cascades is 9
+after cascades stats: sample size = 6392, median = 8.0, mean = 7.82869211514393,
+ stdev = 1.487190711321279
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6393, median = 7.0, mean = 6.64977318942593
+4, stdev = 0.6316688226480017
+num combos after cascades is 7
+after cascades stats: sample size = 6393, median = 8.0, mean = 7.828562490223682
+, stdev = 1.487110504302751
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6394, median = 7.0, mean = 6.64967156709415
+1, stdev = 0.6316716865053051
+num combos after cascades is 6
+after cascades stats: sample size = 6394, median = 8.0, mean = 7.828276509227400
+5, stdev = 1.4871700082987285
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6395, median = 7.0, mean = 6.64956997654417
+5, stdev = 0.6316745331129474
+num combos after cascades is 6
+after cascades stats: sample size = 6395, median = 8.0, mean = 7.827990617670054
+, stdev = 1.487229436339751
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6396, median = 7.0, mean = 6.64946841776110
+1, stdev = 0.6316773624869121
+num combos after cascades is 7
+after cascades stats: sample size = 6396, median = 8.0, mean = 7.827861163227017
+, stdev = 1.4871492018975085
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6397, median = 7.0, mean = 6.64952321400656
+6, stdev = 0.6316431900657545
+num combos after cascades is 6
+after cascades stats: sample size = 6397, median = 8.0, mean = 7.827575425980928
+, stdev = 1.4872085356540274
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6398, median = 7.0, mean = 6.64942169427946
+3, stdev = 0.6316460160822465
+num combos after cascades is 7
+after cascades stats: sample size = 6398, median = 8.0, mean = 7.827446076899031
+, stdev = 1.4871282923185785
+calculating...
+num combos before cascades is 7
+before cascades stats: sample size = 6399, median = 7.0, mean = 6.64947648070010
+9, stdev = 0.6316118615982197
+num combos after cascades is 7
+after cascades stats: sample size = 6399, median = 8.0, mean = 7.827316768245038
+, stdev = 1.4870480584889798
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 6400, median = 7.0, mean = 6.649375, stdev 
+= 0.6316146842617123
+num combos after cascades is 7
+after cascades stats: sample size = 6400, median = 8.0, mean = 7.8271875, stdev 
+= 1.4869678341658257
+calculating...
+

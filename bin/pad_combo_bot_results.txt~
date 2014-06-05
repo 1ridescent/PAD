@@ -1,0 +1,7 @@
+calculating...
+num combos before cascades is 6
+before cascades stats: sample size = 1500, median = 7.0, mean = 6.58666666666666
+7, stdev = 0.6888315388314445
+num combos after cascades is 6
+after cascades stats: sample size = 1500, median = 8.0, mean = 7.787333333333334
+, stdev = 1.5356126537060881
